@@ -34,8 +34,7 @@ Health Harbor is in the final stages of development and will be available soon!
 
 ## Demonstration
 
-- [Prototype 1](#) (Link for Prototype 1)
-- [App Demonstration](#) (Link for App Demonstration)
+[Click here for Demonstration of AR Application](https://drive.google.com/file/d/1863mmE5n2IAvlhna8zvscNVGCg8iVDT1/view?usp=drivesdk)
 
 ## License
 
