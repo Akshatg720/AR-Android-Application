@@ -3,7 +3,8 @@
 Welcome to the Health Harbor GitHub repository! Health Harbor is a comprehensive health management application designed to help users monitor and improve their health through various features such as activity tracking, diet management, and personalized health insights.
 
 ## Scan to download our APK
-![Link for App](https://github.com/Akshatg720/AR-Android-Application/assets/81717751/64d9ba16-0c4a-40f7-89b1-85b14fa63357)
+![file](https://github.com/Akshatg720/AR-Android-Application/assets/81717751/f7b88c2c-07c8-469c-a8c5-3b7edf2de115)
+
 
 
 ## Table of Contents
